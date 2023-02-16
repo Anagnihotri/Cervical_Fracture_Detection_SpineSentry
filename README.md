@@ -1,3 +1,3 @@
-## SpineSentry
-# Cervical Fracture Detection
+# SpineSentry
+## Cervical Fracture Detection
 Cervical Spine fracture detection
